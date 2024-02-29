@@ -45,21 +45,8 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 <img height="140" width="140" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
 </p>
 
--  Version Control System: Git
--  VCS Hosting: GitHub
--  Programming / Scripting: JavaScript
--  Front-End: HTML, CSS
--  Integrated Development Environment: VSCode
-   <br/>
-   <br/>
 
-## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/SuperHero-Hunter-App)
->
-> ## Checkout the Application Demo Video [YouTube](https://www.youtube.com/watch?v=Y75R54qPHzI)
-
-<br/>
 
 ## 💻 Screens
 
@@ -74,11 +61,8 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 </p>
 <br/>
 
-## 🐦 Follow Me:
 
-> [Dev Community](https://dev.to/ayushkanduri)
 
-> [Twitter](https://twitter.com/ayush_codes)
 
 > [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
 
